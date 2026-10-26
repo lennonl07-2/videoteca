@@ -2,6 +2,18 @@
 
 Web local en español para buscar archivos de video, reproducirlos, descargarlos y guardar una selección personal, sin filtros de contenido propios.
 
+## Galería
+
+<table>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/01-busqueda.png" alt="Búsqueda y fuentes disponibles" width="360"><br><sub>Búsqueda y fuentes disponibles</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/02-resultados.png" alt="Resultados para Big Buck Bunny" width="360"><br><sub>Resultados para Big Buck Bunny</sub></td>
+</tr>
+<tr>
+<td align="center" valign="top"><img src="docs/screenshots/03-consulta.png" alt="Consulta con resultados" width="360"><br><sub>Consulta con resultados</sub></td>
+</tr>
+</table>
+
 Abre **http://localhost:4317**. Para volver a iniciarla, haz doble clic en **Abrir Videoteca.command**. Puedes cerrar Terminal: el servidor sigue funcionando en segundo plano. Si no inicia, revisa el registro de inicio local.
 
 ## Instalación
